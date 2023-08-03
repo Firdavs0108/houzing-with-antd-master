@@ -64,7 +64,7 @@ export const AddNewHouse = () => {
         url: id ? `/houses/${id}` : `/houses`,
         method: id ? "PUT" : "POST",
         token: true,
-        body: { ...values, categoryId: 1, name: "Sardor", attachments: imgs },
+        body: { ...values, categoryId: 1, name: "Firdavs", attachments: imgs },
       }).then((res) => {
         if (res?.success) navigate("/myprofile");
       });
