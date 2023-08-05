@@ -4,6 +4,7 @@ import { Blur, Container, Content, Img } from "./style";
 import img1 from "../../assets/img/house1.png";
 import Button from "../Generic/Button";
 
+
 export const Banner = () => {
   return (
     <Container>
