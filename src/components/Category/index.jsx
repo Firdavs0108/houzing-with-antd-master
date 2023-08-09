@@ -41,6 +41,7 @@ export const Category = () => {
   //     });
   // }, []);
 
+  
   return (
     <Container>
       <Content>
