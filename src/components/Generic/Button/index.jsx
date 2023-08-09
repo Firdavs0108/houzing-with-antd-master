@@ -9,4 +9,5 @@ export const Button = ({ type, children, onClick, ...res }) => {
   );
 };
 
+
 export default Button;
