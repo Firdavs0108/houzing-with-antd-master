@@ -5,7 +5,6 @@ export const Footer = () => {
   return (
     <Container>
       <Content>
-      
         <Content.Title>Contact Us</Content.Title>
         <Content.Item>
           <Icon.Map />
