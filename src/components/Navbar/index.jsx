@@ -11,6 +11,7 @@ export const Navbar = () => {
   const navigate = useNavigate();
   let token = localStorage.getItem("token");
 
+  
   const onClick = () => {
     navigate("/register");
   };
