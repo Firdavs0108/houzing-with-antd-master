@@ -6,6 +6,7 @@ import Button from "../Generic/Button";
 
 
 
+
 export const Banner = () => {
   return (
     <Container>
