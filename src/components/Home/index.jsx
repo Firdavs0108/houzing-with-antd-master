@@ -7,6 +7,7 @@ import { Recommend } from "../Recommend";
 import { Why } from "../Why";
 import { Container } from "./style";
 
+
 export const Home = () => {
   return (
     <Container>
