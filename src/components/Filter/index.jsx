@@ -9,7 +9,6 @@ import useSearch from "../../hooks/useSearch";
 // import { useEffect } from "react";
 import { useState } from "react";
 
-
 export const Filter = () => {
   // const { REACT_APP_BASE_URL: url } = process.env;
   const [data/*, setData*/] = useState([]);
